@@ -1,6 +1,8 @@
 # Site settings
-title: "1"
-description: "2."
+
+title: "My Template"
+description: "A resume template."
+
 
 # Build settings
 markdown: kramdown
